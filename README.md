@@ -1,1 +1,1 @@
-# client-server-apps
+# Client-server apps
