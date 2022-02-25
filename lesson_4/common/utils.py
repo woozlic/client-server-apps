@@ -4,6 +4,8 @@ import json
 
 
 def send_message(sock, message: dict, encoding='ascii'):
+    if not isinstance(message, dict):
+        raise TypeError
     message = json.dumps(message)
     sock.send(message.encode(encoding))
 
