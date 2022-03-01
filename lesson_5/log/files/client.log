@@ -43,3 +43,24 @@
 2022-02-25 14:16:44,645 DEBUG client Created presence: {'action': 'presence', 'time': 'Fri Feb 25 14:16:44 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
 2022-02-25 14:16:44,645 DEBUG client Got an answer from server: {'response': 200}
 2022-02-25 14:16:44,646 INFO client Response: All right
+2022-03-01 14:46:34,384 DEBUG client_log_config Testing
+2022-03-01 14:46:34,384 INFO client_log_config Testing
+2022-03-01 14:46:34,384 ERROR client_log_config Testing
+2022-03-01 14:47:10,515 DEBUG client_log_config Testing
+2022-03-01 14:47:10,515 INFO client_log_config Testing
+2022-03-01 14:47:10,515 ERROR client_log_config Testing
+2022-03-01 14:47:19,242 DEBUG client Args: localhost, 7777
+2022-03-01 14:47:19,243 DEBUG client Connected to localhost:7777
+2022-03-01 14:47:19,243 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 14:47:19 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 14:47:19,243 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 14:47:19,243 INFO client Response: All right
+2022-03-01 14:47:20,580 DEBUG client Args: localhost, 7777
+2022-03-01 14:47:20,580 DEBUG client Connected to localhost:7777
+2022-03-01 14:47:20,580 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 14:47:20 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 14:47:20,581 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 14:47:20,581 INFO client Response: All right
+2022-03-01 14:47:21,861 DEBUG client Args: localhost, 7777
+2022-03-01 14:47:21,861 DEBUG client Connected to localhost:7777
+2022-03-01 14:47:21,861 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 14:47:21 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 14:47:21,862 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 14:47:21,862 INFO client Response: All right

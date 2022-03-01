@@ -17,3 +17,10 @@ server_logger = logging.getLogger('server')
 server_logger.addHandler(handler)
 server_logger.addHandler(stream_handler)
 server_logger.setLevel(logging.DEBUG)
+
+
+if __name__ == '__main__':
+    logger = logging.getLogger('server')
+    logger.debug('Testing')
+    logger.info('Testing')
+    logger.error('Testing')
