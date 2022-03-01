@@ -1,0 +1,104 @@
+2022-03-01 15:03:01,448 DEBUG client Args: localhost, 7777
+2022-03-01 15:03:01,449 ERROR client Can't connect to a server
+2022-03-01 15:03:30,851 DEBUG client Args: localhost, 7777
+2022-03-01 15:03:30,851 DEBUG client Connected to localhost:7777
+2022-03-01 15:03:30,852 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:03:30 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:04:09,109 DEBUG client Args: localhost, 7777
+2022-03-01 15:04:09,110 DEBUG client Connected to localhost:7777
+2022-03-01 15:04:09,110 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:04:09 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:04:09,110 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:04:09,110 INFO client Response: All right
+2022-03-01 15:04:48,455 DEBUG client Args: localhost, 7777
+2022-03-01 15:04:48,455 DEBUG client Connected to localhost:7777
+2022-03-01 15:04:48,456 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:04:48 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:04:48,456 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:04:48,456 INFO client Response: All right
+2022-03-01 15:05:10,637 DEBUG client Args: localhost, 7777
+2022-03-01 15:05:10,638 DEBUG client Connected to localhost:7777
+2022-03-01 15:05:10,638 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:05:10 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:05:10,638 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:05:10,638 INFO client Response: All right
+2022-03-01 15:05:48,470 DEBUG client Args: localhost, 7777
+2022-03-01 15:05:48,470 DEBUG client Connected to localhost:7777
+2022-03-01 15:05:48,470 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:05:48 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:05:48,471 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:05:48,471 INFO client Response: All right
+2022-03-01 15:06:06,757 DEBUG client Args: localhost, 7777
+2022-03-01 15:06:06,757 DEBUG client Connected to localhost:7777
+2022-03-01 15:06:06,758 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:06:06 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:07:03,952 DEBUG client Args: localhost, 7777
+2022-03-01 15:07:03,953 DEBUG client Connected to localhost:7777
+2022-03-01 15:07:03,953 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:07:03 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:07:03,953 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:07:03,953 INFO client Response: All right
+2022-03-01 15:08:54,504 DEBUG client Args: localhost, 7777
+2022-03-01 15:08:54,505 DEBUG client Connected to localhost:7777
+2022-03-01 15:08:54,505 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:08:54 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:08:54,505 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:08:54,505 INFO client Response: All right
+2022-03-01 15:13:46,734 DEBUG client Args: localhost, 7777
+2022-03-01 15:13:46,734 DEBUG client Connected to localhost:7777
+2022-03-01 15:13:46,734 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:13:46 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:14:22,729 DEBUG client Args: localhost, 7777
+2022-03-01 15:14:22,729 DEBUG client Connected to localhost:7777
+2022-03-01 15:14:22,729 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:14:22 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:14:22,729 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:14:22,729 INFO client Response: All right
+2022-03-01 15:14:29,773 DEBUG client Args: localhost, 7777
+2022-03-01 15:14:29,774 DEBUG client Connected to localhost:7777
+2022-03-01 15:14:29,774 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:14:29 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:14:29,774 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:14:29,774 INFO client Response: All right
+2022-03-01 15:14:44,791 DEBUG client Args: localhost, 7777
+2022-03-01 15:14:44,791 DEBUG client Connected to localhost:7777
+2022-03-01 15:14:44,791 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:14:44 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:14:44,792 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:14:44,792 INFO client Response: All right
+2022-03-01 15:21:50,962 DEBUG client Args: localhost, 7777
+2022-03-01 15:21:50,962 DEBUG client Connected to localhost:7777
+2022-03-01 15:21:50,962 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:21:50 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:21:50,965 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:21:50,965 INFO client Response: All right
+2022-03-01 15:22:44,334 DEBUG client Args: localhost, 7777
+2022-03-01 15:22:44,335 DEBUG client Connected to localhost:7777
+2022-03-01 15:22:44,335 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:22:44 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:24:04,745 DEBUG client Args: localhost, 7777
+2022-03-01 15:24:04,745 DEBUG client Connected to localhost:7777
+2022-03-01 15:24:04,745 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:24:04 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:26:13,339 DEBUG client Args: localhost, 7777
+2022-03-01 15:26:13,340 DEBUG client Connected to localhost:7777
+2022-03-01 15:26:13,340 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:26:13 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:26:22,006 DEBUG client Args: localhost, 7777
+2022-03-01 15:26:22,006 DEBUG client Connected to localhost:7777
+2022-03-01 15:26:22,006 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:26:22 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:26:22,010 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:26:22,010 INFO client Response: All right
+2022-03-01 15:27:48,770 DEBUG client Args: localhost, 7777
+2022-03-01 15:27:48,770 DEBUG client Connected to localhost:7777
+2022-03-01 15:27:48,771 INFO decorators Function create_presence was executed in 1.40667e-05 s.
+2022-03-01 15:27:48,773 INFO decorators Function create_presence was invoked from main
+2022-03-01 15:27:48,773 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:27:48 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:27:48,777 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:27:48,777 INFO client Response: All right
+2022-03-01 15:27:48,777 INFO decorators Function handle_answer was executed in 4.14848e-05 s.
+2022-03-01 15:27:48,777 INFO decorators Function handle_answer was invoked from main
+2022-03-01 15:27:48,777 INFO decorators Function main was executed in 0.0109639168 s.
+2022-03-01 15:27:48,777 INFO decorators Function main was invoked from <module>
+2022-03-01 15:28:10,509 DEBUG client Args: localhost, 7777
+2022-03-01 15:28:10,510 DEBUG client Connected to localhost:7777
+2022-03-01 15:28:10,510 INFO decorators Function create_presence was executed in 1.40667e-05 s.
+2022-03-01 15:28:10,513 INFO decorators Function create_presence was invoked from main
+2022-03-01 15:28:10,513 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:28:10 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:28:10,516 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:28:10,516 INFO client Response: All right
+2022-03-01 15:28:10,516 INFO decorators Function handle_answer was executed in 4.1008e-05 s.
+2022-03-01 15:28:10,516 INFO decorators Function handle_answer was invoked from main
+2022-03-01 15:28:34,665 DEBUG client Args: localhost, 7777
+2022-03-01 15:28:34,665 DEBUG client Connected to localhost:7777
+2022-03-01 15:28:34,665 DEBUG decorators Function create_presence was executed in 1.0252e-05 s.
+2022-03-01 15:28:34,668 DEBUG decorators Function create_presence was invoked from main
+2022-03-01 15:28:34,668 DEBUG client Created presence: {'action': 'presence', 'time': 'Tue Mar  1 15:28:34 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}, sending...
+2022-03-01 15:28:34,670 DEBUG client Got an answer from server: {'response': 200}
+2022-03-01 15:28:34,670 INFO client Response: All right
+2022-03-01 15:28:34,670 DEBUG decorators Function handle_answer was executed in 3.98159e-05 s.
+2022-03-01 15:28:34,671 DEBUG decorators Function handle_answer was invoked from main
