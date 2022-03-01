@@ -1,0 +1,13 @@
+2022-03-01 14:46:31,509 INFO server Server is running on localhost:7777
+2022-03-01 14:47:04,178 DEBUG server_log_config Testing
+2022-03-01 14:47:04,178 INFO server_log_config Testing
+2022-03-01 14:47:04,178 ERROR server_log_config Testing
+2022-03-01 14:47:19,243 DEBUG server New client: ('127.0.0.1', 45070)
+2022-03-01 14:47:19,243 DEBUG server Got a message: {'action': 'presence', 'time': 'Tue Mar  1 14:47:19 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}
+2022-03-01 14:47:19,243 DEBUG server Send an answer {'response': 200} to a client ('127.0.0.1', 45070)
+2022-03-01 14:47:20,580 DEBUG server New client: ('127.0.0.1', 45072)
+2022-03-01 14:47:20,581 DEBUG server Got a message: {'action': 'presence', 'time': 'Tue Mar  1 14:47:20 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}
+2022-03-01 14:47:20,581 DEBUG server Send an answer {'response': 200} to a client ('127.0.0.1', 45072)
+2022-03-01 14:47:21,861 DEBUG server New client: ('127.0.0.1', 45074)
+2022-03-01 14:47:21,862 DEBUG server Got a message: {'action': 'presence', 'time': 'Tue Mar  1 14:47:21 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}
+2022-03-01 14:47:21,862 DEBUG server Send an answer {'response': 200} to a client ('127.0.0.1', 45074)
