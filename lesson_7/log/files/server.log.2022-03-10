@@ -1,0 +1,16 @@
+2022-03-10 14:18:11,840 INFO server Server is running on localhost:7777
+2022-03-10 14:18:15,354 DEBUG server New client: ('127.0.0.1', 51196)
+2022-03-10 14:18:15,358 DEBUG server Got a message: {'action': 'presence', 'time': 'Thu Mar 10 14:18:15 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}
+2022-03-10 14:18:15,358 DEBUG decorators Function process_client_message was executed in 2.861e-06 s.
+2022-03-10 14:18:15,362 DEBUG decorators Function process_client_message was invoked from main
+2022-03-10 14:18:15,363 DEBUG server Send an answer {'response': 200} to a client ('127.0.0.1', 51196)
+2022-03-10 14:18:35,636 DEBUG server New client: ('127.0.0.1', 51198)
+2022-03-10 14:18:35,639 DEBUG server Got a message: {'action': 'presence', 'time': 'Thu Mar 10 14:18:35 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}
+2022-03-10 14:18:35,639 DEBUG decorators Function process_client_message was executed in 2.1458e-06 s.
+2022-03-10 14:18:35,640 DEBUG decorators Function process_client_message was invoked from main
+2022-03-10 14:18:35,640 DEBUG server Send an answer {'response': 200} to a client ('127.0.0.1', 51198)
+2022-03-10 14:18:36,886 DEBUG server New client: ('127.0.0.1', 51200)
+2022-03-10 14:18:36,889 DEBUG server Got a message: {'action': 'presence', 'time': 'Thu Mar 10 14:18:36 2022\n', 'type': 'status', 'user': {'account_name': 'guest', 'status': 'online'}}
+2022-03-10 14:18:36,889 DEBUG decorators Function process_client_message was executed in 2.3842e-06 s.
+2022-03-10 14:18:36,889 DEBUG decorators Function process_client_message was invoked from main
+2022-03-10 14:18:36,890 DEBUG server Send an answer {'response': 200} to a client ('127.0.0.1', 51200)
