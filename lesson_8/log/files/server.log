@@ -522,3 +522,13 @@ TypeError: string indices must be integers
 2022-03-24 16:02:46,913 DEBUG decorators Function process_client_message was invoked from read_requests
 2022-03-24 16:02:48,316 INFO server Client 6 ('127.0.0.1', 41424) was disconnected.
 2022-03-24 16:02:49,920 INFO server Client 5 ('127.0.0.1', 41422) was disconnected.
+2022-03-24 16:13:22,452 DEBUG server New client: ('127.0.0.1', 41474)
+2022-03-24 16:13:22,652 DEBUG decorators Function process_client_message was executed in 0.0001792908 s.
+2022-03-24 16:13:22,653 DEBUG decorators Function process_client_message was invoked from read_requests
+2022-03-24 16:13:22,707 DEBUG server New client: ('127.0.0.1', 41476)
+2022-03-24 16:13:22,908 DEBUG decorators Function process_client_message was executed in 0.0001404285 s.
+2022-03-24 16:13:22,908 DEBUG decorators Function process_client_message was invoked from read_requests
+2022-03-24 16:13:25,112 DEBUG decorators Function process_client_message was executed in 7.41482e-05 s.
+2022-03-24 16:13:25,112 DEBUG decorators Function process_client_message was invoked from read_requests
+2022-03-24 16:13:28,116 INFO server Client 5 ('127.0.0.1', 41476) was disconnected.
+2022-03-24 16:13:29,721 INFO server Client 7 ('127.0.0.1', 41474) was disconnected.

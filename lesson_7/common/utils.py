@@ -18,11 +18,17 @@ def get_message(sock, encoding='ascii') -> dict:
     response = sock.recv(BYTES_RECV_SIZE)
     if isinstance(response, bytes):
         json_response = response.decode(encoding)
+<<<<<<< HEAD
         if json_response:
             response = json.loads(json_response)
             if isinstance(response, dict):
                 return response
             raise ValueError
+=======
+        response = json.loads(json_response)
+        if isinstance(response, dict):
+            return response
+>>>>>>> c702503e66f6694e125be22716e22189e48584a0
         raise ValueError
     raise ValueError
 
