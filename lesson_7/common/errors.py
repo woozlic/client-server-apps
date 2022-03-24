@@ -1,7 +1,4 @@
 class UnsafePortError(Exception):
-<<<<<<< HEAD
-    pass
-=======
     pass
 
 
@@ -33,4 +30,3 @@ class ReqFieldMissingError(Exception):
 
     def __str__(self):
         return f'В принятом словаре отсутствует обязательное поле {self.missing_field}.'
->>>>>>> c702503e66f6694e125be22716e22189e48584a0

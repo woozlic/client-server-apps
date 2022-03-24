@@ -1,7 +1,6 @@
 import logging
 from socket import AF_INET, SOCK_STREAM, socket
 import argparse
-
 import json
 
 from common.errors import ReqFieldMissingError, ServerError
